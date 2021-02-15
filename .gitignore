@@ -3,4 +3,4 @@
 playlist.m3u
 .gitignore
 filter.txt
-.idea
+/.idea
