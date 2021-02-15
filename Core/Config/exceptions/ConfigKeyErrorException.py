@@ -1,0 +1,2 @@
+class ConfigKeyErrorException(Exception):
+    pass

@@ -1,0 +1,2 @@
+class DropboxUploadException(Exception):
+    pass

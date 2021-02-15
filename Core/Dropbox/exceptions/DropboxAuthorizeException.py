@@ -1,0 +1,2 @@
+class DropboxAuthorizeException(Exception):
+    pass
